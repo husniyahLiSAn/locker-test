@@ -1,4 +1,4 @@
-# Soal-CodeMi-Backend-Developer
+# Locker-Cabinet API
 
 Program mempunyai beberapa perintah sebagai berikut :
  init [jumlah loker] : untuk membuat jumlah loker
